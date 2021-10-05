@@ -39,6 +39,22 @@
       "description": "",
       "available": true,
       "id": 5
+    },
+    {
+      "image": "",
+      "name": "Test",
+      "price": "10.00",
+      "description": "Teste",
+      "available": false,
+      "id": 6
+    },
+    {
+      "image": "",
+      "name": "Novo",
+      "price": "20.00",
+      "description": "nKKD",
+      "available": true,
+      "id": 7
     }
   ]
 }

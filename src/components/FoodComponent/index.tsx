@@ -24,7 +24,7 @@ export function FoodComponent({
       available: !isAvailable,
     });
 
-    setIsAvailable((isAvailable) => !isAvailable);
+    setIsAvailable(!isAvailable);
   };
 
   const handleOnEditFood = () => {

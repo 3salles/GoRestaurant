@@ -12,7 +12,7 @@ import { IconType } from 'react-icons';
 
 interface Props {
   name: string;
-  Icon: IconType;
+  Icon?: IconType;
 }
 
 type InputProps = JSX.IntrinsicElements['input'] & Props
